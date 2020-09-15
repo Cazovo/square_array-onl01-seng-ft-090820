@@ -1,5 +1,5 @@
 def square_array(array)
-    
-    array.each do 
     squared_numbers=[]
+    array.each do 
+   return squared_numbers
 end
